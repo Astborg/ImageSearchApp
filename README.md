@@ -1,4 +1,5 @@
-backend: cd backend  -> nodemon server
-frontend: cd frontend -> npm install -> npm run dev 
+BACKEND: backend: cd backend  -> nodemon server /////
 
-.env is available with ID and KEYS 
+FRONTEND: frontend: cd frontend -> npm install -> npm run dev ////
+
+.ENV: .env is available with ID and KEYS /////
